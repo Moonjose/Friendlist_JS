@@ -24,7 +24,7 @@ Creating a friendlist (CRUD) with node, express and MongoDB
 git clone https://github.com/Moonjose/Friendlist_JS.git
 
 # enter the cloned directory
-cd 5_Express 
+cd Friendlist_JS 
 
 # install dependencies
 npm install
